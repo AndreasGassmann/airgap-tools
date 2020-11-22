@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/AndreasGassmann/airgap-tools#readme",
   "dependencies": {
-    "airgap-coin-lib": "^0.9.9"
+    "airgap-coin-lib": "^0.9.9",
+    "bip39": "^3.0.3"
   },
   "devDependencies": {
+    "@types/bip39": "^3.0.0",
     "prettier": "^2.1.2",
     "typescript": "^4.0.5"
   }
